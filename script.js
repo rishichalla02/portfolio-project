@@ -12,7 +12,7 @@ form.addEventListener("submit", function(event) {
 
     console.log("Full Name:", fullName);
     console.log("Email:", email);
-    console.log("Phone Number:", phone);
+    console.log("Phone:", phone);
     console.log("Subject:", subject);
     console.log("Message:", message);
 
